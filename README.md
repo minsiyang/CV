@@ -1,12 +1,16 @@
-## Your Name
+## Minsi Yang
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+I am a full-stack junior developer who is eagerly looking for a role where I can consolidate and expand my programming knowledge. 
+
+After spending 20 years of playing music with different orchestras and ensembles around the world, I wanted a new challenge. Being a creative individual, and seeing how the music industry is doing quite poorly on their internet presence, I took the plunge to join the 16 weeks <a href="http://www.makersacademy.com/">Makers Academy</a> bootcamp.
+
+Having recently completed the course, I have grown from a Luddite into a competent and confident junior developer. I love learning from making fun projects and the process of problem solving. I have also brought in the creativity and attention to details into my coding. I enjoy writing clean and well tested code and this is my biggest priority in looking for a junior developer role. I'd love to work in a supportive environment where those practices are followed.
 
 ## Projects
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
+| **Small Steps**              | A carbon calculator for journey around UK. Takes transport mode for car, plane, bus and train. | React, Jest, Express, Google APIs |
 | **Something else worked on** | A webapp to do y. | Ruby              |
 
 ## Experience
