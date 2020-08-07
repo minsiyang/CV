@@ -8,10 +8,13 @@ Having recently completed the course, I have grown from a Luddite into a compete
 
 ## Projects
 
+ For a complete lists, please visit my [GitHub] (https://github.com/minsiyang).
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Small Steps**              | A carbon calculator for journey around UK. Takes transport mode for car, plane, bus and train. | React, Jest, Express, Google APIs |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+|   **<a href="https://small-steps2020.herokuapp.com/">Small Steps</a>**| A carbon calculator for journey around UK. Takes transport mode for car, plane, bus and train. | React, Jest, Express, HTML, CSS, Bootstrap, Google APIs |
+| **<a href="https://github.com/minsiyang/Bank">Bank Tech Test</a>**    | A small CLI banking system. | Ruby, Rspec |
+| **<a href="https://zenbook4u.herokuapp.com/users/sign_in">Zenbook</a>** | A calming clone of Facebook, for stressed devs to hang out. | Ruby on Rails, PostgreSQL, Jquery, HTML, CSS, Bootstrap |
+
 
 ## Experience
 
