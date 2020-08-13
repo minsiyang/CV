@@ -6,6 +6,8 @@ After spending 20 years of playing music with different orchestras and ensembles
 
 Having recently completed the course, I have grown from a Luddite into a competent and confident junior developer. I love learning from making fun projects and the process of problem solving. I have also brought in the creativity and attention to details into my coding. I enjoy writing clean and well tested code and this is my biggest priority in looking for a junior developer role. I'd love to work in a supportive environment where those practices are followed.
 
+**Tech Skills:** Ruby, Rails, Sinatra, HTML, CSS, Bootstrap, JavaScript, jQuery, PostgreSQL, React.
+
 ## Projects
 
  For a complete lists, please visit my [GitHub](https://github.com/minsiyang).
@@ -32,37 +34,43 @@ Fluent in **Mandarin** and **Cantonese**
 
 ## Experience
 
+**Freelance Violinist** (2006 to current)  
+
+- Being a team player, working together with different groups
+- Time management, being able to deliver results on limited amount of time
+- Good people skills, forming good relationship with colleagues, to motivate each other to bring out best for the team; as well as relationship with clients, to understand their requirements
+
+**Philharmonia Orchestra** (04/2014 to current)  
+Extra Player First Violin
+
+- Working as part of the team in the section, rotating to different desk(s) when required
+- Focus, be flexible to handle new repertoire on demand
+
 **Company Name** (start-date to end-date)  
 _Your job title_
 
 - Any experience relevent to software development
-
-**Company Name** (start-date to end-date)  
-_Your job title_
-
-- Any experience relevent to software development
-
-
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (05/2020 to 08/2020)
+A intense 16-week development bootcamp, focusing on: 
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### Auckland University (2008 to 2009)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- Master of Music Performance
 
-#### Any other qualifications
+#### Victoria University of Wellington (2003 - 2006)
 
-That in some arguable way make you a better software developer or well-rounded person
+- Bachelor of Music Performance(First-Class Honours)
+- Performed solo violin concerto with university orchestra
 
 ## Hobbies
-
-Any cool stuff that makes you a super part of a software development team
+- A keen photographer
+- Love cooking, and looking different recipes from different countries
+- A passionte gardener, I transformed the unclaimed land behind our house into my own allotement
