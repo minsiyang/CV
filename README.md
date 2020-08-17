@@ -6,7 +6,8 @@
 
   [Projects](#projects) | [Experience](#experience) | [Skills](#skills) | [Education](#education) | [Hobbies](#hobbies) | [LinkedIn](https://www.linkedin.com/in/minsi-yang-281aa082/)
 </div>
-After spending 20 years of playing music with different orchestras and ensembles around the world, I wanted a new challenge. Being a creative individual, and seeing how the music industry could be benefited from having more support from the modern technology presence, I took the plunge to join the 16 weeks [Makers Academy](http://www.makersacademy.com/) bootcamp.
+
+After spending 20 years of playing music with different orchestras and ensembles around the world, I wanted a new challenge. Being a creative individual, and seeing how the music industry could be benefited from having more support from the modern technology presence, I took the plunge to join the 16 weeks [Makers Academy](http://www.makersacademy.com) bootcamp.
 
 Having recently completed the course, I have grown from a Luddite into a competent and confident junior developer. I love learning from making fun projects and the process of problem solving. I have also brought in the creativity and attention to details into my coding. I enjoy writing clean and well tested code and this is my biggest priority in looking for a junior developer role. I'd love to work in a supportive environment where those practices are followed.
 
