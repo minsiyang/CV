@@ -1,5 +1,6 @@
 ## Minsi Yang
 <div align='center'>
+
  **A full-stack junior developer who is eagerly looking for a role where I can consolidate and expand my programming knowledge** 
 
 
