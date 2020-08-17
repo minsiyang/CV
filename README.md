@@ -4,7 +4,7 @@
  **A full-stack junior developer who is eagerly looking for a role where I can consolidate and expand my programming knowledge** 
 
 
-  [Projects](#projects) | [Experience](#experience) | [Skills](#skills) | [Education](#education) | [Hobbies](#hobbies) | [LinkedIn](https://www.linkedin.com/in/minsi-yang/)
+  [Projects](#projects) | [Experience](#experience) | [Skills](#skills) | [Education](#education) | [Hobbies](#hobbies) | [LinkedIn](https://www.linkedin.com/in/minsi-yang-281aa082/)
 </div>
 After spending 20 years of playing music with different orchestras and ensembles around the world, I wanted a new challenge. Being a creative individual, and seeing how the music industry could be benefited from having more support from the modern technology presence, I took the plunge to join the 16 weeks [Makers Academy](http://www.makersacademy.com/) bootcamp.
 
