@@ -22,7 +22,7 @@ As a performer, I have collaborated with many different organizations; these inc
  
 As a musician, I enjoy myself most when performing in groups. It is the communication, support and knowledge sharing that makes the whole experience exhilarating. Similarly, I hope to look for a front-end or full-stack junior developer role in a supportive and nurturing environment where I can contribute my knowledge and continue to develop my potential.
 
-**Tech Skills:** Ruby, JavaScript, HTML, CSS, Rspec, Capybara, Jasmine, Jest, Bootstrap, React, jQuery, Rails, Sinatra, PostgreSQL, TDD, ClI, Git
+**Tech Skills:** Ruby, JavaScript, HTML, CSS, Rspec, Capybara, Jasmine, Jest, Bootstrap, React, jQuery, Rails, Sinatra, PostgreSQL, TDD, Cli, Git
 
 **Soft Skills:** Agile, EQ, Pair programming, Time management
 
