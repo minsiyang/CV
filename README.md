@@ -8,7 +8,7 @@
 
 
 
-**A full-stack junior developer who is eagerly looking for new oppotunity to learn** 
+**A full-stack junior developer who is eagerly looking for new oppotunities to learn** 
 
 
   [Projects](#projects) | [Experience](#experience) | [Skills](#skills) | [Education](#education) | [Hobbies](#hobbies) | [LinkedIn](https://www.linkedin.com/in/minsi-yang-281aa082/)
@@ -20,41 +20,22 @@ Having recently completed the course, I was able to develop skills and processes
  
 As a performer, I have collaborated with many different organizations; these include not only the usual symphony orchestras, but also organizations like pop and rock artists and even private functions for members of the Royal Family. This has given me a great deal of experience of working with people from various cultures and disciplines. As a teacher, I established my ability to engage with my students according to their individual personalities. These experiences, and the abilities I have accumulated over the years, have also formed my pragmatic approach to solving problems.
  
-As a musician, I enjoy myself most when performing in groups. It is the communication, support and knowledge sharing that makes the whole experience exhilarating. Similarly, I hope to look for a front-end or full-stack junior developer role in a supportive and nurturing environment where I can contribute my knowledge and continue to develop my potential.
+During my time at Makers, I enjoyed myself most when collaborating within a team. It was the communication, support and knowledge sharing that made the whole experience exhilarating. Similarly, I hope to look for a front-end or full-stack junior developer role in a supportive and nurturing environment where I can contribute my knowledge and continue to develop my potential.
 
-**Tech Skills:** Ruby, JavaScript, HTML, CSS, Rspec, Capybara, Jasmine, Jest, Bootstrap, React, jQuery, Rails, Sinatra, PostgreSQL, TDD, Cli, Git
+**Tech Skills:** Ruby, JavaScript, HTML, CSS, Rspec, Capybara, Jasmine, Jest, Bootstrap, React, jQuery, Rails, Sinatra, PostgreSQL, TDD, Cli, Git.
 
-**Soft Skills:** Agile, EQ, Pair programming, Time management
+**Soft Skills:** Agile, EQ, Pair programming, Time management.
 
 ## Projects
 
- For a complete lists, please visit my [GitHub](https://github.com/minsiyang).
 |Name           |Description               |Tech/tools               |
 | :-----------: | :----------------------: | :---------------------: |
-| **[Small Steps](https://small-steps2020.herokuapp.com/)** | A carbon calculator for journey around UK. Takes transport mode for car, plane, bus and train. | React, Jest, Express, HTML, CSS, Bootstrap, Google APIs |
+| **[Small Steps](https://small-steps2020.herokuapp.com/)** | A carbon calculator for travelling around the UK. Takes transport mode for car, plane, bus and train. | React, Jest, Express, HTML, CSS, Bootstrap, Google APIs |
 | **[Bank Tech Test](https://github.com/minsiyang/Bank)**   | A small CLI banking system. | Ruby, Rspec |
 | **[Zenbook](https://zenbook4u.herokuapp.com/users/sign_in)** | A calming clone of Facebook, for stressed devs to hang out. | Ruby on Rails, PostgreSQL, Jquery, HTML, CSS, Bootstrap |
 
+For a complete lists, please visit my [GitHub](https://github.com/minsiyang).
 
-## Experience
-
-**Self-employed Violinist** (2006 to current) 
-- Collaborated with various major organizations, these include [Philharmonia Orchestrea](https://philharmonia.co.uk/), [BBC Scottish Symphony Orchestra](https://www.bbc.co.uk/bbcsso), [New Zealand Symphony Orchestra](https://www.nzso.co.nz/) and [National Theatre](https://www.nationaltheatre.org.uk/)
-- Time management. In order to succeed in the freelance field, I have to be very strict with my schedule. I have a concert diary in order to keep track of my performance engagements and auditions, as well as constantly finding space to schedule practice time to refine my playing skills. 
-- Flexibility in taking up new skills in a short period. When I was working in the National Theatre for the play "Amadeus", I was asked to learn to act and to improvise movements on stage while playing my instrument, which I had never encountered elsewhere in my playing career; within a period of 3 weeks, I was proudly performing this way on stage with ease.
- 
-**Violin Teacher** (2003 to current) 
-- Compassionate Empathy. When teaching, I openly encourage my students to ask me as many questions as possible. With this approach, I can have a clearer picture of what they are working on or struggling with; then I can figure out how to help them best.
-- Imaginative knowledge sharing. I enjoy finding different interpretations of the same concept when explaining to my students. I believe that everyone has a different way to learn, and that the key is to tailor my teaching to each student's needs.
- 
-**Glass Ceiling Orchestra** (2018) 
-Orchestra Fixer<br>
-Booking players for the ensemble based on concert projects. Major responsibilities include:
-- finding the right players for the instrumental requirement of the repertoire
-- booking players that would work well in a team
-- being able to find a good replacement on short notice.
- 
- 
 ## Skills
  
 #### Discipline
@@ -76,6 +57,25 @@ During my final project, I discovered a great passion for design. I have continu
 I love experiencing new cultures and having a multicultural workplace.
 - Fluent in **Mandarin**, **Cantonese** and **English**, in the process of learning **Finnish**
 - Have lived abroad for 18 years (New Zealand and United Kingdom)
+
+
+## Experience
+
+**Self-employed Violinist** (2006 to current) 
+- Collaborated with various major organizations, these include [Philharmonia Orchestrea](https://philharmonia.co.uk/), [BBC Scottish Symphony Orchestra](https://www.bbc.co.uk/bbcsso), [New Zealand Symphony Orchestra](https://www.nzso.co.nz/) and [National Theatre](https://www.nationaltheatre.org.uk/).
+- In order to succeed in the freelance field, I have to be very strict with my time management. I have a concert diary in order to keep track of my performance engagements and auditions, as well as constantly finding space to schedule practice time to refine my playing skills. 
+- When I was working in the National Theatre for the play "Amadeus", I was asked to learn to act and to improvise movements on stage while playing my instrument, which I had never encountered elsewhere in my playing career. Thanks to my flexibility in taking up new skills, within a period of 3 weeks, I was proudly performing this way on stage with ease.
+ 
+**Violin Teacher** (2003 to current) 
+- When teaching, I openly encourage my students to ask me as many questions as possible. With this empathetic approach, I can have a clearer picture of what they are working on or struggling with; then I can figure out how to help them best.
+- I enjoy finding different interpretations of the same concept when explaining to my students. I believe that everyone has a different way to learn, and that the key is to tailor my teaching to each student's needs.
+ 
+**Glass Ceiling Orchestra** (2018) 
+Orchestra Fixer<br>
+Booking players for the ensemble based on concert projects. Major responsibilities include:
+- Finding the right players for the instrumental requirement of the repertoire.
+- Booking players that would work well in a team.
+- Being able to find a good replacement on short notice.
  
 ## Education
  
@@ -99,9 +99,9 @@ UK’s leading programming bootcamp, teaching good working practices as well as 
 - Performed solo violin concerto with university orchestra
  
 ## Hobbies
-- **Photography:** I enjoy taking photos with my iPhone and Canon200D [![Instagram](https://img.shields.io/badge/Instagram-yellow?&logo=instagram)](https://www.instagram.com/minsiy)
-- **Food:** I love cooking, and trying out different recipes from all over the world
-- **Gardening:** I transformed the unclaimed land behind our house into my own allotment
+- **Photography:** I enjoy taking photos with my iPhone and Canon600D. [![Instagram](https://img.shields.io/badge/Instagram-yellow?&logo=instagram)](https://www.instagram.com/minsiy)
+- **Food:** I love cooking, and trying out different recipes from all over the world.
+- **Gardening:** I transformed the unclaimed land behind our house into my own allotment.
 - **Self-development:** Meditation and Yoga is one of my must-haves for the day.
 - **Informal Concerts:** Playing informal concerts for all ages. You can find an example <a href="https://www.youtube.com/watch?v=L-2TPDhg8LM&t=179s">here</a>.
  
