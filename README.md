@@ -22,7 +22,7 @@ As a performer, I have collaborated with many different organizations; these inc
  
 During my time at Makers, I enjoyed myself most when collaborating within a team. It was the communication, support and knowledge sharing that made the whole experience exhilarating. Similarly, I hope to look for a front-end or full-stack junior developer role in a supportive and nurturing environment where I can contribute my knowledge and continue to develop my potential.
 
-**Tech Skills:** Ruby, JavaScript, HTML, CSS, Rspec, Capybara, Jasmine, Jest, Bootstrap, React, jQuery, Rails, Sinatra, PostgreSQL, TDD, Cli, Git.
+**Tech Skills:** Ruby, JavaScript, HTML, CSS, Rspec, Capybara, Jasmine, Jest, Bootstrap, React, Gatsby,jQuery, Rails, Sinatra, PostgreSQL, Graphql, TDD, Cli, Git.
 
 **Soft Skills:** Agile, EQ, Pair programming, Time management.
 
