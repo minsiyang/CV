@@ -22,7 +22,7 @@ As a performer, I have collaborated with many different organizations; these inc
  
 During my time at Makers, I enjoyed myself most when collaborating within a team. It was the communication, support and knowledge sharing that made the whole experience exhilarating. Similarly, I hope to look for a front-end or full-stack junior developer role in a supportive and nurturing environment where I can contribute my knowledge and continue to develop my potential.
 
-**Tech Skills:** Ruby, JavaScript, HTML, CSS, Rspec, Capybara, Jasmine, Jest, Bootstrap, React, Gatsby,jQuery, Rails, Sinatra, PostgreSQL, Graphql, TDD, Cli, Git.
+**Tech Skills:** Ruby, JavaScript, HTML, CSS, Rspec, Capybara, Jasmine, Jest, Bootstrap, React, Gatsby, jQuery, Rails, Sinatra, PostgreSQL, Graphql, TDD, Cli, Git.
 
 **Soft Skills:** Agile, EQ, Pair programming, Time management.
 
@@ -70,9 +70,8 @@ I love experiencing new cultures and having a multicultural workplace.
 - When teaching, I openly encourage my students to ask me as many questions as possible. With this empathetic approach, I can have a clearer picture of what they are working on or struggling with; then I can figure out how to help them best.
 - I enjoy finding different interpretations of the same concept when explaining to my students. I believe that everyone has a different way to learn, and that the key is to tailor my teaching to each student's needs.
  
-**Glass Ceiling Orchestra** (2018) 
-Orchestra Fixer<br>
-Booking players for the ensemble based on concert projects. Major responsibilities include:
+**Glass Ceiling Orchestra** (2018)   
+Orchestra Fixer. Booking players for the ensemble based on concert projects. Major responsibilities include:
 - Finding the right players for the instrumental requirement of the repertoire.
 - Booking players that would work well in a team.
 - Being able to find a good replacement on short notice.
